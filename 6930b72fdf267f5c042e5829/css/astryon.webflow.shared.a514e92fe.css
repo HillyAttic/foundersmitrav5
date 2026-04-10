@@ -9654,3 +9654,9 @@ blockquote {
     justify-self: start;
   }
 }
+
+
+/* Hide Webflow badge */
+.w-webflow-badge {
+  display: none !important;
+}
