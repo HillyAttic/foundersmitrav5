@@ -4574,7 +4574,7 @@ blockquote {
 .header-title {
   font-family: var(--_typography---font-family--primary);
   color: var(--primary-color--white);
-  font-size: 20vw;
+  font-size: 12vw;
   font-weight: var(--_typography---font-weight--extra-bold);
   text-align: center;
   text-transform: uppercase;
@@ -6484,7 +6484,7 @@ blockquote {
   }
 
   .header-title {
-    font-size: 18rem;
+    font-size: 10rem;
   }
 
   .card-wrapper {
