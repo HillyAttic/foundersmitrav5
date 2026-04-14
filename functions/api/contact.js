@@ -262,7 +262,7 @@ async function sendEmailNotification(data, ip, env) {
       'Content-Type': 'application/json'
     },
     body: JSON.stringify({
-      from: env.FROM_EMAIL || 'noreply@foundersmitra.com',
+      from: 'FoundersMitra <onboarding@resend.dev>',
       to: env.NOTIFICATION_EMAIL || 'foundersmitra@gmail.com',
       reply_to: data.email,
       subject: `New Contact: ${data.subject}`,
