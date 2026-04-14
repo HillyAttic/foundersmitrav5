@@ -1,0 +1,20 @@
+{
+  "name": "foundersmitra-backend",
+  "version": "1.0.0",
+  "description": "Backend functions for FoundersMitra contact form",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler pages dev . --port 8788",
+    "deploy": "wrangler pages deploy .",
+    "preview": "wrangler pages dev ."
+  },
+  "dependencies": {
+    "resend": "^3.2.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
