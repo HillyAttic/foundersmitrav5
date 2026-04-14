@@ -13,8 +13,23 @@ export async function onRequestPost(context) {
   };
 
   try {
+    console.log('Contact form request received');
+
+    // Check if RESEND_API_KEY exists
+    if (!env.RESEND_API_KEY) {
+      console.error('RESEND_API_KEY not found in environment');
+      return new Response(
+        JSON.stringify({
+          success: false,
+          message: 'Server configuration error. Please contact support.'
+        }),
+        { status: 500, headers }
+      );
+    }
+
     // Parse request body
     const data = await request.json();
+    console.log('Form data received:', { name: data.name, email: data.email, subject: data.subject });
 
     // Get client IP
     const clientIP = request.headers.get('CF-Connecting-IP') || 'unknown';
@@ -22,6 +37,7 @@ export async function onRequestPost(context) {
     // Validate input
     const validationErrors = validateInput(data);
     if (validationErrors.length > 0) {
+      console.log('Validation errors:', validationErrors);
       return new Response(
         JSON.stringify({
           success: false,
@@ -35,7 +51,9 @@ export async function onRequestPost(context) {
     const sanitized = sanitizeInput(data);
 
     // Send email notification via Resend
+    console.log('Sending email via Resend...');
     await sendEmailNotification(sanitized, clientIP, env);
+    console.log('Email sent successfully');
 
     // Return success
     return new Response(
@@ -48,11 +66,13 @@ export async function onRequestPost(context) {
 
   } catch (error) {
     console.error('Contact form error:', error);
+    console.error('Error details:', error.message, error.stack);
 
     return new Response(
       JSON.stringify({
         success: false,
-        message: 'An error occurred. Please try again later.'
+        message: 'An error occurred. Please try again later.',
+        error: error.message
       }),
       { status: 500, headers }
     );
