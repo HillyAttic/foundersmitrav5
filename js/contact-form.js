@@ -33,7 +33,7 @@
       name: $form.find('input[name="name"]').val().trim(),
       email: $form.find('input[name="email"]').val().trim(),
       subject: $form.find('input[name="Subject"]').val().trim(),
-      message: $form.find('textarea[name="Message"]').val().trim()
+      message: $form.find('input[name="Message"]').val().trim()
     };
 
     // Client-side validation
