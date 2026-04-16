@@ -9,7 +9,8 @@
       "Bash(curl -s http://127.0.0.1:8788/index.htm)",
       "Bash(curl -X POST https://api.resend.com/emails -H 'Authorization: Bearer re_AYsPLUDi_B3tZ82x1DRiywqRjC6KQLTEw' -H 'Content-Type: application/json' -d '{:*)",
       "Bash(grep -l \"contact-form.js\" *.html)",
-      "Bash(grep -l \"Astryon – Webflow HTML Website Template\" *.html blog-post/*.html project/*.html)"
+      "Bash(grep -l \"Astryon – Webflow HTML Website Template\" *.html blog-post/*.html project/*.html)",
+      "Bash(grep *)"
     ]
   }
 }
