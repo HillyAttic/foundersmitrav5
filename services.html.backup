@@ -1,22 +1,22 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <!-- This site was created in Webflow. https://webflow.com --><!-- Last Published: Tue Jan 27 2026 20:35:06 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-domain="astryon.webflow.io" data-wf-page="6930b72fdf267f5c042e5821"
   data-wf-site="6930b72fdf267f5c042e5829">
 
 <head>
   <meta charset="utf-8">
-  <title>Services â€¢ FoundersMitra</title>
+  <title>Services – FoundersMitra</title>
   <meta
     content="Astryon is a clean and modern Webflow template designed for consulting firms. Designed with a minimalist aesthetic, it combines clarity, structure, and confidence to present services with assurance and precision."
     name="description">
-  <meta content="Services â€¢ Astryon" property="og:title">
+  <meta content="Services – Astryon" property="og:title">
   <meta
     content="Astryon is a clean and modern Webflow template designed for consulting firms. Designed with a minimalist aesthetic, it combines clarity, structure, and confidence to present services with assurance and precision."
     property="og:description">
   <meta
     content="https://cdn.prod.website-files.com/6930b72fdf267f5c042e5829/69791cce1fd6caaada305256_open-graph-image.jpg"
     property="og:image">
-  <meta content="Services â€¢ Astryon" property="twitter:title">
+  <meta content="Services – Astryon" property="twitter:title">
   <meta
     content="Astryon is a clean and modern Webflow template designed for consulting firms. Designed with a minimalist aesthetic, it combines clarity, structure, and confidence to present services with assurance and precision."
     property="twitter:description">
@@ -398,9 +398,9 @@
               <div class="w-layout-grid top-content-grid">
                 <div id="w-node-_3655bf91-ac1e-5d2b-641c-ee6094edf9af-042e5821" class="content-item">
                   <div class="subtitle-wrap left-flex">
-                    <div class="subtitle"><span class="asterisk">*</span> Advisory Services</div>
+                    <div class="subtitle"><span class="asterisk">?</span> Advisory Services</div>
                   </div>
-                  <h1 class="heading-style-h2">Consulting<br><span class="text-color-secondary">Expertise</span></h1>
+                  <h1 class="heading-style-h2">Consulting<br>?<span class="text-color-secondary">Expertise</span></h1>
                 </div>
                 <div id="w-node-_3655bf91-ac1e-5d2b-641c-ee6094edf9bb-042e5821" class="content-item">
                   <div class="inner-content"><a href="pricing.html" data-wf--button--variant="alternate"
@@ -461,8 +461,8 @@
                         right capital with confidence. We assist founders throughout the fundraising journey, from
                         investor outreach to successful deal closure.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Pitch deck development &amp; refinement<br>â€¢ Investor matching &amp;
-                        introductions<br>â€¢ Founder pitch preparation support<br>â€¢ Due diligence &amp; documentation
+                      <p class="text-size-small">• Pitch deck development &amp; refinement<br>• Investor matching &amp;
+                        introductions<br>• Founder pitch preparation support<br>• Due diligence &amp; documentation
                         support</p>
                     </div>
                   </div>
@@ -511,9 +511,9 @@
                         government, corporate, and private grant programs. We simplify the grant application process and
                         improve your chances of successful funding approval.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Grant opportunity identification &amp; eligibility assessment<br>â€¢
-                        Grant application drafting &amp; submission support<br>â€¢ Financial projections &amp; supporting
-                        documentation<br>â€¢ Assistance for Startup India, BIRAC, SIDBI &amp; MeitY grants</p>
+                      <p class="text-size-small">• Grant opportunity identification &amp; eligibility assessment<br>•
+                        Grant application drafting &amp; submission support<br>• Financial projections &amp; supporting
+                        documentation<br>• Assistance for Startup India, BIRAC, SIDBI &amp; MeitY grants</p>
                     </div>
                   </div>
                 </div>
@@ -561,8 +561,8 @@
                         and support uninterrupted business operations. We help businesses access the right funding
                         products to manage expenses, inventory, and growth opportunities efficiently.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Invoice discounting &amp; cash flow support<br>â€¢ Business line of
-                        credit solutions<br>â€¢ Inventory &amp; supply chain financing<br>â€¢ Bank funding with simplified
+                      <p class="text-size-small">• Invoice discounting &amp; cash flow support<br>• Business line of
+                        credit solutions<br>• Inventory &amp; supply chain financing<br>• Bank funding with simplified
                         processing</p>
                     </div>
                   </div>
@@ -611,8 +611,8 @@
                         manual effort, and improve overall business efficiency. We help businesses implement the right
                         tools and workflows to enhance productivity and scalability.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ CRM, sales &amp; marketing automation<br>â€¢ Accounting &amp; financial
-                        workflow automation<br>â€¢ HR, payroll &amp; operations management systems<br>â€¢ Custom software
+                      <p class="text-size-small">• CRM, sales &amp; marketing automation<br>• Accounting &amp; financial
+                        workflow automation<br>• HR, payroll &amp; operations management systems<br>• Custom software
                         &amp; workflow integration solutions</p>
                     </div>
                   </div>
@@ -661,9 +661,9 @@
                         compliant, protected, and investor-ready. We simplify legal complexities with practical guidance
                         tailored to your business needs.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Business formation &amp; shareholder agreement support<br>â€¢
-                        Intellectual property &amp; trademark protection<br>â€¢ Contract drafting, review &amp; legal
-                        documentation<br>â€¢ Compliance, funding &amp; investment legal advisory</p>
+                      <p class="text-size-small">• Business formation &amp; shareholder agreement support<br>•
+                        Intellectual property &amp; trademark protection<br>• Contract drafting, review &amp; legal
+                        documentation<br>• Compliance, funding &amp; investment legal advisory</p>
                     </div>
                   </div>
                 </div>
@@ -673,9 +673,9 @@
                 <div data-w-id="aeb421aa-d620-0229-8f35-57c32df95308" class="service-content-wrapper">
                   <div data-w-id="aeb421aa-d620-0229-8f35-57c32df95309" class="service-image-absolute">
                     <div class="service-image-wrapper"><img sizes="(max-width: 1024px) 100vw, 1024px"
-                        srcset="images/services/undraw/undraw_finance_InvestmentConsultancy.png 500w, images/services/undraw/undraw_finance_InvestmentConsultancy.png 800w, images/services/undraw/undraw_finance_InvestmentConsultancy.png 1024w"
-                        alt="Investment Consultancy"
-                        src="images/services/undraw/undraw_finance_InvestmentConsultancy.png" loading="lazy"
+                        srcset="images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 500w, images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 800w, images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 1024w"
+                        alt="Service Illustration"
+                        src="images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg" loading="lazy"
                         class="service-image"></div>
                   </div>
                   <div id="w-node-aeb421aa-d620-0229-8f35-57c32df9530c-042e5821" class="service-content-block">
@@ -709,9 +709,9 @@
                         informed financial decisions and build long-term wealth. We provide research-backed insights
                         across diversified investment opportunities and growth-focused asset strategies.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Portfolio diversification &amp; wealth planning<br>â€¢ Startup, equity
+                      <p class="text-size-small">• Portfolio diversification &amp; wealth planning<br>• Startup, equity
                         &amp;
-                        private investment advisory<br>â€¢ Real estate investment & strategy analysis<br>â€¢ Performance
+                        private investment advisory<br>• Real estate investment & strategy analysis<br>• Performance
                         tracking &amp; risk management support</p>
                     </div>
                   </div>
@@ -760,9 +760,9 @@
                         establish and scale businesses seamlessly across India and the UAE. We manage registrations,
                         compliance, and documentation while you focus on growth.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ India & UAE company incorporation support<br>â€¢
-                        GST, FSSAI, IEC & statutory registrations<br>â€¢ Free Zone, Mainland & Offshore setup
-                        assistance<br>â€¢ Business visa, compliance & documentation support</p>
+                      <p class="text-size-small">• India & UAE company incorporation support<br>•
+                        GST, FSSAI, IEC & statutory registrations<br>• Free Zone, Mainland & Offshore setup
+                        assistance<br>• Business visa, compliance & documentation support</p>
                     </div>
                   </div>
                 </div>
@@ -772,9 +772,9 @@
                 <div data-w-id="65c2876e-d593-3309-e5cf-d4b45b9c35cc" class="service-content-wrapper">
                   <div data-w-id="65c2876e-d593-3309-e5cf-d4b45b9c35cd" class="service-image-absolute">
                     <div class="service-image-wrapper"><img sizes="(max-width: 1024px) 100vw, 1024px"
-                        srcset="images/services/undraw/undraw_calculator_taxExemption.png 500w, images/services/undraw/undraw_calculator_taxExemption.png 800w, images/services/undraw/undraw_calculator_taxExemption.png 1024w"
-                        alt="Section 80-IAC Tax Exemption"
-                        src="images/services/undraw/undraw_calculator_taxExemption.png" loading="lazy"
+                        srcset="images/services/imgi_13_stock-market-concept-illustration_114360-9641.jpg 500w, images/services/imgi_13_stock-market-concept-illustration_114360-9641.jpg 800w, images/services/imgi_13_stock-market-concept-illustration_114360-9641.jpg 1024w"
+                        alt="Service Illustration"
+                        src="images/services/imgi_13_stock-market-concept-illustration_114360-9641.jpg" loading="lazy"
                         class="service-image"></div>
                   </div>
                   <div id="w-node-_65c2876e-d593-3309-e5cf-d4b45b9c35d0-042e5821" class="service-content-block">
@@ -810,8 +810,8 @@
                         Section 80-IAC to maximize cash flow and support long-term growth. We simplify the application
                         process and ensure complete compliance for successful approval.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Eligibility assessment & DPIIT recognition support<br>Section 80-IAC
-                        application preparation & filing<br>Documentation, financials & IMB presentation guidance<br>â€¢
+                      <p class="text-size-small">• Eligibility assessment & DPIIT recognition support<br>Section 80-IAC
+                        application preparation & filing<br>Documentation, financials & IMB presentation guidance<br>•
                         Post-approval tax planning & compliance support</p>
                     </div>
                   </div>
@@ -860,8 +860,8 @@
                         gaps, improve efficiency, and strengthen internal controls. We help businesses build
                         standardized processes that support consistency, compliance, and long-term stability.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Operational & financial risk assessment<br>â€¢ Process mapping &
-                        workflow analysis<br>â€¢ SOP drafting & internal control implementation<br>â€¢ Compliance alignment
+                      <p class="text-size-small">• Operational & financial risk assessment<br>• Process mapping &
+                        workflow analysis<br>• SOP drafting & internal control implementation<br>• Compliance alignment
                         & team process training</p>
                     </div>
                   </div>
@@ -872,9 +872,9 @@
                 <div data-w-id="29f7fc42-524c-2a62-3f98-90d191345e80" class="service-content-wrapper">
                   <div data-w-id="29f7fc42-524c-2a62-3f98-90d191345e81" class="service-image-absolute">
                     <div class="service-image-wrapper"><img sizes="(max-width: 1024px) 100vw, 1024px"
-                        srcset="images/services/undraw/undraw_map_locationStrategy.png 500w, images/services/undraw/undraw_map_locationStrategy.png 800w, images/services/undraw/undraw_map_locationStrategy.png 1024w"
-                        alt="Location Strategy for Brand Expansion"
-                        src="images/services/undraw/undraw_map_locationStrategy.png" loading="lazy"
+                        srcset="images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 500w, images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 800w, images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 1024w"
+                        alt="Service Illustration"
+                        src="images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg" loading="lazy"
                         class="service-image"></div>
                   </div>
                   <div id="w-node-_29f7fc42-524c-2a62-3f98-90d191345e84-042e5821" class="service-content-block">
@@ -910,9 +910,9 @@
                         into high-potential retail markets with confidence. We identify strategic locations, optimize
                         commercial opportunities, and support seamless outlet expansion.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Market research & high-footfall micro-market analysis<br>â€¢
-                        â€¢ Retail location shortlisting & site evaluation<br>â€¢ Commercial lease & negotiation
-                        support<br>â€¢ Franchise partner onboarding & launch assistance</p>
+                      <p class="text-size-small">• Market research & high-footfall micro-market analysis<br>•
+                        • Retail location shortlisting & site evaluation<br>• Commercial lease & negotiation
+                        support<br>• Franchise partner onboarding & launch assistance</p>
                     </div>
                   </div>
                 </div>
@@ -922,9 +922,9 @@
                 <div data-w-id="aeb421aa-d620-0229-8f35-57c32df95308" class="service-content-wrapper">
                   <div data-w-id="aeb421aa-d620-0229-8f35-57c32df95309" class="service-image-absolute">
                     <div class="service-image-wrapper"><img sizes="(max-width: 1024px) 100vw, 1024px"
-                        srcset="images/services/undraw/undraw_data_virtualCFO.png 500w, images/services/undraw/undraw_data_virtualCFO.png 800w, images/services/undraw/undraw_data_virtualCFO.png 1024w"
-                        alt="Virtual CFO Services"
-                        src="images/services/undraw/undraw_data_virtualCFO.png" loading="lazy"
+                        srcset="images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 500w, images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 800w, images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 1024w"
+                        alt="Service Illustration"
+                        src="images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg" loading="lazy"
                         class="service-image"></div>
                   </div>
                   <div id="w-node-aeb421aa-d620-0229-8f35-57c32df9530c-042e5821" class="service-content-block">
@@ -958,9 +958,9 @@
                         streamline finances, improve decision-making, and scale sustainably. Our virtual CFO support
                         provides expert financial oversight without the cost of a full-time CFO.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Financial planning, budgeting & cash flow management<br>â€¢ MIS
-                        reporting & business performance analysis<br>â€¢ Compliance, taxation & financial control
-                        support<br>â€¢ Fundraising, investor reporting & financial strategy advisory</p>
+                      <p class="text-size-small">• Financial planning, budgeting & cash flow management<br>• MIS
+                        reporting & business performance analysis<br>• Compliance, taxation & financial control
+                        support<br>• Fundraising, investor reporting & financial strategy advisory</p>
                     </div>
                   </div>
                 </div>
@@ -970,9 +970,9 @@
                 <div data-w-id="c07ff600-6e36-c22f-dc6b-a70974d5b451" class="service-content-wrapper">
                   <div data-w-id="c07ff600-6e36-c22f-dc6b-a70974d5b452" class="service-image-absolute">
                     <div class="service-image-wrapper"><img sizes="(max-width: 1024px) 100vw, 1024px"
-                        srcset="images/services/undraw/undraw_GAP Analysis.png 500w, images/services/undraw/undraw_GAP Analysis.png 800w, images/services/undraw/undraw_GAP Analysis.png 1024w"
-                        alt="GAP Analysis Services"
-                        src="images/services/undraw/undraw_GAP Analysis.png" loading="lazy"
+                        srcset="images/services/imgi_17_business-registration-abstract-concept-vector-illustration-register-new-business-paperwork-company-formation-document-submission-governme.jpg 500w, images/services/imgi_17_business-registration-abstract-concept-vector-illustration-register-new-business-paperwork-company-formation-document-submission-governme.jpg 800w, images/services/imgi_17_business-registration-abstract-concept-vector-illustration-register-new-business-paperwork-company-formation-document-submission-governme.jpg 1024w"
+                        alt="Service Illustration"
+                        src="images/services/imgi_17_business-registration-abstract-concept-vector-illustration-register-new-business-paperwork-company-formation-document-submission-governme.jpg" loading="lazy"
                         class="service-image"></div>
                   </div>
                   <div id="w-node-c07ff600-6e36-c22f-dc6b-a70974d5b455-042e5821" class="service-content-block">
@@ -1009,8 +1009,8 @@
                         businesses uncover improvement opportunities and build actionable roadmaps for sustainable
                         growth.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Operational process & workflow gap assessment<br>â€¢ Regulatory
-                        compliance & risk identification<br>â€¢ Financial controls & governance evaluation<br>â€¢ Strategic
+                      <p class="text-size-small">• Operational process & workflow gap assessment<br>• Regulatory
+                        compliance & risk identification<br>• Financial controls & governance evaluation<br>• Strategic
                         improvement roadmap & implementation guidance</p>
                     </div>
                   </div>
@@ -1021,9 +1021,9 @@
                 <div data-w-id="65c2876e-d593-3309-e5cf-d4b45b9c35cc" class="service-content-wrapper">
                   <div data-w-id="65c2876e-d593-3309-e5cf-d4b45b9c35cd" class="service-image-absolute">
                     <div class="service-image-wrapper"><img sizes="(max-width: 1024px) 100vw, 1024px"
-                        srcset="images/services/undraw/undraw_reviewing_Performance Report.png 500w, images/services/undraw/undraw_reviewing_Performance Report.png 800w, images/services/undraw/undraw_reviewing_Performance Report.png 1024w"
-                        alt="Business Performance Report"
-                        src="images/services/undraw/undraw_reviewing_Performance Report.png" loading="lazy"
+                        srcset="images/services/imgi_13_stock-market-concept-illustration_114360-9641.jpg 500w, images/services/imgi_13_stock-market-concept-illustration_114360-9641.jpg 800w, images/services/imgi_13_stock-market-concept-illustration_114360-9641.jpg 1024w"
+                        alt="Service Illustration"
+                        src="images/services/imgi_13_stock-market-concept-illustration_114360-9641.jpg" loading="lazy"
                         class="service-image"></div>
                   </div>
                   <div id="w-node-_65c2876e-d593-3309-e5cf-d4b45b9c35d0-042e5821" class="service-content-block">
@@ -1059,8 +1059,8 @@
                         performance, and improve strategic decision-making. We transform complex business data into
                         actionable insights that support profitability and long-term growth.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Revenue trends & profitability analysis<br>â€¢ Cost optimization &
-                        expense structure review<br>â€¢ Working capital & cash flow assessment<br>â€¢ Financial risk
+                      <p class="text-size-small">• Revenue trends & profitability analysis<br>• Cost optimization &
+                        expense structure review<br>• Working capital & cash flow assessment<br>• Financial risk
                         identification & performance benchmarking</p>
                     </div>
                   </div>
@@ -1071,9 +1071,9 @@
                 <div class="service-content-wrapper">
                   <div data-w-id="b867b8c9-8a39-f847-70ad-2ff2139b605b" class="service-image-absolute">
                     <div class="service-image-wrapper"><img sizes="(max-width: 1024px) 100vw, 1024px"
-                        srcset="images/services/undraw/undraw_Brand Building.png 500w, images/services/undraw/undraw_Brand Building.png 800w, images/services/undraw/undraw_Brand Building.png 1024w"
-                        alt="Brand Building"
-                        src="images/services/undraw/undraw_Brand Building.png" loading="lazy"
+                        srcset="images/services/imgi_21_flat-design-illustration-customer-support_23-2148887720.jpg 500w, images/services/imgi_21_flat-design-illustration-customer-support_23-2148887720.jpg 800w, images/services/imgi_21_flat-design-illustration-customer-support_23-2148887720.jpg 1024w"
+                        alt="Service Illustration"
+                        src="images/services/imgi_21_flat-design-illustration-customer-support_23-2148887720.jpg" loading="lazy"
                         class="service-image"></div>
                   </div>
                   <div id="w-node-b867b8c9-8a39-f847-70ad-2ff2139b605e-042e5821" class="service-content-block">
@@ -1109,8 +1109,8 @@
                         improve audience engagement, and drive business growth. We combine creative branding with
                         performance-focused marketing to build impactful and scalable brand experiences.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Performance marketing & digital advertising campaigns<br>â€¢ Social
-                        media management & audience engagement<br>â€¢ Influencer collaborations & content strategy<br>â€¢
+                      <p class="text-size-small">• Performance marketing & digital advertising campaigns<br>• Social
+                        media management & audience engagement<br>• Influencer collaborations & content strategy<br>•
                         Brand identity development & marketing analytics</p>
                     </div>
                   </div>
@@ -1121,9 +1121,9 @@
                 <div data-w-id="29f7fc42-524c-2a62-3f98-90d191345e80" class="service-content-wrapper">
                   <div data-w-id="29f7fc42-524c-2a62-3f98-90d191345e81" class="service-image-absolute">
                     <div class="service-image-wrapper"><img sizes="(max-width: 1024px) 100vw, 1024px"
-                        srcset="images/services/undraw/undraw_Secretarial Compliance.png 500w, images/services/undraw/undraw_Secretarial Compliance.png 800w, images/services/undraw/undraw_Secretarial Compliance.png 1024w"
-                        alt="Secretarial Compliances"
-                        src="images/services/undraw/undraw_Secretarial Compliance.png" loading="lazy"
+                        srcset="images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 500w, images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 800w, images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 1024w"
+                        alt="Service Illustration"
+                        src="images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg" loading="lazy"
                         class="service-image"></div>
                   </div>
                   <div id="w-node-_29f7fc42-524c-2a62-3f98-90d191345e84-042e5821" class="service-content-block">
@@ -1159,9 +1159,9 @@
                         business aligned with corporate governance and regulatory requirements. We handle statutory
                         filings, documentation, and secretarial processes to ensure smooth business operations.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Annual ROC filings & statutory compliance management<br>â€¢ Board
-                        meetings, resolutions & shareholder documentation<br>â€¢ Shareholding, capital structure &
-                        regulatory record maintenance<br>â€¢ Compliance audits, updates & governance support</p>
+                      <p class="text-size-small">• Annual ROC filings & statutory compliance management<br>• Board
+                        meetings, resolutions & shareholder documentation<br>• Shareholding, capital structure &
+                        regulatory record maintenance<br>• Compliance audits, updates & governance support</p>
                     </div>
                   </div>
                 </div>
@@ -1171,9 +1171,9 @@
                 <div data-w-id="aeb421aa-d620-0229-8f35-57c32df95308" class="service-content-wrapper">
                   <div data-w-id="aeb421aa-d620-0229-8f35-57c32df95309" class="service-image-absolute">
                     <div class="service-image-wrapper"><img sizes="(max-width: 1024px) 100vw, 1024px"
-                        srcset="images/services/undraw/undraw_Business Compliance.png 500w, images/services/undraw/undraw_Business Compliance.png 800w, images/services/undraw/undraw_Business Compliance.png 1024w"
-                        alt="Business Compliance Suite"
-                        src="images/services/undraw/undraw_Business Compliance.png" loading="lazy"
+                        srcset="images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 500w, images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 800w, images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg 1024w"
+                        alt="Service Illustration"
+                        src="images/services/imgi_19_risk-management-concept-illustration_114360-9171.jpg" loading="lazy"
                         class="service-image"></div>
                   </div>
                   <div id="w-node-aeb421aa-d620-0229-8f35-57c32df9530c-042e5821" class="service-content-block">
@@ -1207,9 +1207,9 @@
                         regulatory requirements, reduce operational risks, and maintain strong governance standards. We
                         simplify compliance management so you can focus on sustainable business growth.</p>
                       <div class="spacer-small"></div>
-                      <p class="text-size-small">â€¢ Annual ROC filings & statutory compliance management<br>â€¢ Board
-                        meetings, resolutions & shareholder documentation<br>â€¢ Shareholding, capital structure &
-                        regulatory record maintenance<br>â€¢ Due diligence &amp; documentation
+                      <p class="text-size-small">• Annual ROC filings & statutory compliance management<br>• Board
+                        meetings, resolutions & shareholder documentation<br>• Shareholding, capital structure &
+                        regulatory record maintenance<br>• Due diligence &amp; documentation
                         support</p>
                     </div>
                   </div>
@@ -1232,10 +1232,10 @@
                 <div id="w-node-_0b5c63bd-c908-caec-5a2e-2ad00a5195f4-0a5195ee" class="w-layout-grid cta-inner-grid">
                   <div id="w-node-_0b5c63bd-c908-caec-5a2e-2ad00a5195f5-0a5195ee" class="content-item">
                     <div class="subtitle-wrap left-flex">
-                      <div class="subtitle text-color-alternate"><span class="asterisk">*</span> Let&#x27;s plan your
+                      <div class="subtitle text-color-alternate"><span class="asterisk">?</span> Let&#x27;s plan your
                         growth</div>
                     </div>
-                    <h2 class="heading-style-h2 text-color-alternate">Start<br><span
+                    <h2 class="heading-style-h2 text-color-alternate">Start<br>?<span
                         class="text-color-secondary">Growing</span></h2>
                     <div class="max-width-small">
                       <p class="text-size-regular text-color-grey">Start making smarter financial decisions with expert
@@ -1453,8 +1453,8 @@
               <div class="w-layout-grid footer-info-grid">
                 <div id="w-node-_0b5c63bd-c908-caec-5a2e-2ad00a51967b-0a5195ee" class="footer-content-block">
                   <div class="footer-block">
-                    <div class="footer-text">â€¢ FoundersMitra</div>
-                    <div class="footer-text hide-mobile">â€¢</div>
+                    <div class="footer-text">© FoundersMitra</div>
+                    <div class="footer-text hide-mobile">¦</div>
                   </div>
                   <div class="footer-block">
                     <div class="footer-text">Powered by</div><a href="https://jpcoca.in/" target="_blank"
@@ -1473,7 +1473,7 @@
                         <div link-text-item="" class="footer-link-text">Style Guide</div>
                       </div>
                     </a>
-                    <div class="footer-text hide-mobile">â€¢</div>
+                    <div class="footer-text hide-mobile">¦</div>
                   </div>
                   <div class="footer-block"><a href="template-info/licenses.html" class="footer-link w-inline-block">
                       <div class="link-text-block">
@@ -1481,7 +1481,7 @@
                         <div link-text-item="" class="footer-link-text">Licenses</div>
                       </div>
                     </a>
-                    <div class="footer-text hide-mobile">â€¢</div>
+                    <div class="footer-text hide-mobile">¦</div>
                   </div>
                   <div class="footer-block"><a href="template-info/changelog.html" class="footer-link w-inline-block">
                       <div class="link-text-block">
