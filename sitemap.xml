@@ -1,132 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Homepage -->
   <url>
     <loc>https://foundersmitra.com/</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- About Page -->
   <url>
-    <loc>https://foundersmitra.com/about.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/about</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- Services Page -->
   <url>
-    <loc>https://foundersmitra.com/services.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/services</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
-  <!-- Pricing Page -->
   <url>
-    <loc>https://foundersmitra.com/pricing.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/pricing</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- Contact Page -->
   <url>
-    <loc>https://foundersmitra.com/contact.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/case-studies</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
-
-  <!-- Blog Page -->
   <url>
-    <loc>https://foundersmitra.com/blog.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/blog</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- Case Studies Page -->
   <url>
-    <loc>https://foundersmitra.com/case-studies.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/contact</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-
-  <!-- Blog Posts -->
   <url>
-    <loc>https://foundersmitra.com/blog-post/financial-planning-for-startups.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/blog-post/corporate-cash-flow-optimization</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
-    <loc>https://foundersmitra.com/blog-post/cash-flow-management-tips.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/blog-post/retirement-planning-investment-strategies</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
-    <loc>https://foundersmitra.com/blog-post/investment-strategies-for-growth.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/blog-post/risk-management-financial-protection</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
-    <loc>https://foundersmitra.com/blog-post/tax-optimization-guide.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/blog-post/smart-personal-budget-control</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
-    <loc>https://foundersmitra.com/blog-post/risk-management-essentials.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/blog-post/tax-efficiency-strategic-compliance</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
-    <loc>https://foundersmitra.com/blog-post/business-forecasting-methods.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/blog-post/wealth-growth-strategic-planning</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-
-  <!-- Case Study Projects -->
   <url>
-    <loc>https://foundersmitra.com/project/bluecrest.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/project/bluecrest</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
-    <loc>https://foundersmitra.com/project/clearpath.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/project/clearpath</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
-    <loc>https://foundersmitra.com/project/northway.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/project/northway</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
-    <loc>https://foundersmitra.com/project/primer.html</loc>
-    <lastmod>2026-04-14</lastmod>
+    <loc>https://foundersmitra.com/project/primer</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
-
 </urlset>

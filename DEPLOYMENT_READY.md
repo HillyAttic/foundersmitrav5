@@ -13,7 +13,7 @@
 - 129 packages installed successfully
 
 ### Step 2: Resend API Key Obtained ✅
-- API Key: `re_AYsPLUDi_B3tZ82x1DRiywqRjC6KQLTEw`
+- API Key: stored in `.env` as `RESEND_API_KEY` (never commit the value)
 - Account created at resend.com
 
 ### Step 3: Environment File Created ✅
@@ -71,7 +71,7 @@ After deployment:
 - Click "Add variable" for each:
 
 ```
-RESEND_API_KEY = re_AYsPLUDi_B3tZ82x1DRiywqRjC6KQLTEw
+RESEND_API_KEY = <your-resend-api-key>
 NOTIFICATION_EMAIL = foundersmitra@gmail.com
 FROM_EMAIL = noreply@foundersmitra.com
 RATE_LIMIT_REQUESTS = 5

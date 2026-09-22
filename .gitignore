@@ -7,6 +7,10 @@
 # Dependencies
 node_modules/
 
+# Local agent tooling / worktrees (may contain local paths and secrets)
+.claude/settings.local.json
+.kilo/
+
 # Cloudflare
 .wrangler/
 wrangler.toml.local
