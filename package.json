@@ -4,8 +4,9 @@
   "description": "Backend functions for FoundersMitra contact form",
   "private": true,
   "scripts": {
+    "build": "node build.mjs",
     "dev": "wrangler pages dev . --port 8788",
-    "deploy": "wrangler pages deploy .",
+    "deploy": "node build.mjs && wrangler pages deploy dist",
     "preview": "wrangler pages dev ."
   },
   "dependencies": {

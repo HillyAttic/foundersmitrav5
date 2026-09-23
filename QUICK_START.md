@@ -120,8 +120,12 @@ Click "Save" and "Redeploy"
 
 ### Option B: Direct Deploy (Faster, No GitHub)
 
+Always stage the site first — never deploy the repo root, or your docs,
+`package.json` and tooling config become public:
+
 ```bash
-npm run deploy
+npm run build   # stages the site into dist/
+npm run deploy  # deploys dist/, not the repo root
 ```
 
 Follow the prompts to login to Cloudflare and deploy.

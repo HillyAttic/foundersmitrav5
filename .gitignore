@@ -8,8 +8,11 @@
 node_modules/
 
 # Local agent tooling / worktrees (may contain local paths and secrets)
-.claude/settings.local.json
+.claude/
 .kilo/
+.kiro/
+.codex/
+.cursor/
 
 # Cloudflare
 .wrangler/
