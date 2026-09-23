@@ -1,0 +1,35 @@
+# Files in this repo that must NOT be uploaded to the site.
+# wrangler.toml sets pages_build_output_dir = ".", so without this
+# the whole repo root (docs, package.json, agent tooling) is published.
+
+# Dev / agent tooling
+# NB: functions/ is deliberately NOT listed - Cloudflare needs it to build
+# the contact-form Function. Do not add it here.
+.kilo/
+.claude/
+.kiro/
+.wrangler/
+.firebase/
+node_modules/
+
+# Docs and repo metadata
+*.md
+package.json
+package-lock.json
+webcopy-origin.txt
+.env
+.env.*
+.gitignore
+.prettierrc
+.vscode/
+
+# Infra config - not needed by the live site
+firebase.json
+firestore.indexes.json
+firestore.rules
+wrangler.toml
+
+# Backups and strays
+*.backup
+index.htmll
+template-info/
